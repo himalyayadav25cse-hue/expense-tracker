@@ -1,0 +1,5 @@
+# No external libraries needed!
+# This project uses only Python built-in modules:
+# - json   (saving data)
+# - os     (file handling)
+# - datetime (date and time)
